@@ -1,7 +1,6 @@
-# desenvolvimento-de-aplicacoes-corporativas
-TCC00340 - Desenvolvimento de Aplicações Corporativas - 2022/1
+# TCC00340 - Desenvolvimento de Aplicações Corporativas - 2022/1
 
-# Conteúdo Programático
+## Conteúdo Programático
 
 DEFINIÇÃO DE COMPUTAÇÃO CORPORATIVA, DE ARQUITETURAS EM TRÊS CAMADAS E DO CONCEITO DE EMPACOTAMENTO E IMPLANTAÇÃO. 
 
